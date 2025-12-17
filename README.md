@@ -19,6 +19,9 @@ This project is a Streamlit-based dashboard that monitors the health of a tradin
 
 You can view the live app here: [Open App](https://share.streamlit.io/cyashkumar/Strategy-Decay-Risk-Monitor/main/dashboard.py)
 
+## Data Source: 
+All financial data is fetched from [Yahoo Finance](https://finance.yahoo.com/) via the Python library `yfinance`.
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
