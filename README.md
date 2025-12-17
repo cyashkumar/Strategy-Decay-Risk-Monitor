@@ -17,7 +17,10 @@ This project is a Streamlit-based dashboard that monitors the health of a tradin
 - yfinance
 - scikit-learn
 
+You can view the live app here: [Open App](https://share.streamlit.io/cyashkumar/Strategy-Decay-Risk-Monitor/main/dashboard.py)
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run dashboard.py
+
